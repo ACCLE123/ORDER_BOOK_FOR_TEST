@@ -1,0 +1,6 @@
+/Users/yangqi/Code2/test/build/CMakeFiles/okx_sync.dir
+/Users/yangqi/Code2/test/build/CMakeFiles/edit_cache.dir
+/Users/yangqi/Code2/test/build/CMakeFiles/rebuild_cache.dir
+/Users/yangqi/Code2/test/build/IXWebSocket/CMakeFiles/ixwebsocket.dir
+/Users/yangqi/Code2/test/build/IXWebSocket/CMakeFiles/edit_cache.dir
+/Users/yangqi/Code2/test/build/IXWebSocket/CMakeFiles/rebuild_cache.dir
