@@ -51,6 +51,13 @@
         "memory": "cpp",
         "print": "cpp",
         "algorithm": "cpp",
-        "list": "cpp"
+        "list": "cpp",
+        "__hash_table": "cpp",
+        "__tree": "cpp",
+        "deque": "cpp",
+        "hash_map": "cpp",
+        "forward_list": "cpp",
+        "map": "cpp",
+        "sstream": "cpp"
     }
 }
